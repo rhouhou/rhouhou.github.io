@@ -1,4 +1,3 @@
-# Dr. Rola Houhou
 ### Scientific AI for Multimodal Photonic Sensing
 
 Physics-informed AI · Multimodal Data Fusion · Rare Imaging Modalities · Trustworthy AI
@@ -37,7 +36,7 @@ Interested in collaborations in biomedical imaging, photonic sensing, multimodal
 
 ## Contact
 Email: rola.h.houhou@gmail.com  
-GitHub: https://github.com/rhouhou
-Google Scholar: https://scholar.google.com/citations?user=NaBarWEAAAAJ&hl=en
-ORCID: https://orcid.org/0000-0001-6732-2563
+GitHub: https://github.com/rhouhou  
+Google Scholar: https://scholar.google.com/citations?user=NaBarWEAAAAJ&hl=en  
+ORCID: https://orcid.org/0000-0001-6732-2563  
 LinkedIn: www.linkedin.com/in/dr-rola-houhou-0a961b31
