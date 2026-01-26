@@ -35,8 +35,8 @@ My long-term goal is to establish a research program in Scientific AI for Multim
 Interested in collaborations in biomedical imaging, photonic sensing, multimodal data fusion, and scientific AI research.
 
 ## Contact
-Email: rola.h.houhou@gmail.com  
-GitHub: https://github.com/rhouhou  
-Google Scholar: https://scholar.google.com/citations?user=NaBarWEAAAAJ&hl=en  
-ORCID: https://orcid.org/0000-0001-6732-2563  
-LinkedIn: www.linkedin.com/in/dr-rola-houhou-0a961b31
+Email: [rola.h.houhou@gmail.com](mailto:rola.h.houhou@gmail.com)  
+GitHub: [https://github.com/rhouhou](mailto:https://github.com/rhouhou)  
+Google Scholar: [https://scholar.google.com/citations?user=NaBarWEAAAAJ&hl=en](mailto:https://scholar.google.com/citations?user=NaBarWEAAAAJ&hl=en)  
+ORCID: [https://orcid.org/0000-0001-6732-2563](mailto:https://orcid.org/0000-0001-6732-2563)  
+LinkedIn: [www.linkedin.com/in/dr-rola-houhou-0a961b31](mailto:www.linkedin.com/in/dr-rola-houhou-0a961b31)
