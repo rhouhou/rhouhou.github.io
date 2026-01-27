@@ -1,5 +1,3 @@
-### Scientific AI for Multimodal Photonic Sensing
-
 Physics-informed AI · Multimodal Data Fusion · Rare Imaging Modalities · Trustworthy AI
 
 ---
