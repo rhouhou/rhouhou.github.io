@@ -1,5 +1,6 @@
 ---
-layout: home
+layout: default
+title: ""
 ---
 
 # Dr. Rola Houhou
@@ -9,40 +10,6 @@ Physics-informed AI · Multimodal Data Fusion · Rare Imaging Modalities · Trus
 
 ---
 
-
 ## About
 I am a researcher working at the intersection of photonics, data science, and artificial intelligence. My work focuses on physics-informed AI for multimodal photonic imaging and rare sensing modalities, with applications in biomedical diagnostics and scientific discovery.
-
-## Research Vision
-My long-term goal is to establish a research program in Scientific AI for Multimodal Photonic Sensing, creating foundational methods that enable reliable AI for rare and complex imaging modalities.
-
-## Research Pillars
-- Data-efficient learning for rare modalities  
-- Physics-informed multimodal fusion  
-- Trustworthy scientific AI  
-
-## Focus Problems
-- Multimodal optical tissue characterization  
-- Hyperspectral reconstruction and diagnosis  
-- Cross-device generalization in photonic imaging  
-
-## Methods
-- self-supervised learning  
-- generative modeling  
-- Bayesian inference  
-- uncertainty quantification  
-- physics-guided neural networks  
-
-## Outputs
-- Preprints: coming soon  
-- Software: in preparation  
-
-## Collaboration
-Interested in collaborations in biomedical imaging, photonic sensing, multimodal data fusion, and scientific AI research.
-
-## Contact
-Email: [rola.h.houhou@gmail.com](mailto:rola.h.houhou@gmail.com)  
-GitHub: [https://github.com/rhouhou](https://github.com/rhouhou)  
-Google Scholar: [https://scholar.google.com/citations?user=NaBarWEAAAAJ&hl=en](https://scholar.google.com/citations?user=NaBarWEAAAAJ&hl=en)  
-ORCID: [https://orcid.org/0000-0001-6732-2563](https://orcid.org/0000-0001-6732-2563)  
-LinkedIn: [https://www.linkedin.com/in/dr-rola-houhou-0a961b31](https://www.linkedin.com/in/dr-rola-houhou-0a961b31)
+<img width="468" height="59" alt="image" src="https://github.com/user-attachments/assets/a7064c2c-ed3d-4e08-94d5-17400bddb9c7" />
