@@ -1,3 +1,6 @@
+# Dr. Rola Houhou
+## Physics-Based Multimodal AI Research
+
 Physics-informed AI · Multimodal Data Fusion · Rare Imaging Modalities · Trustworthy AI
 
 ---
