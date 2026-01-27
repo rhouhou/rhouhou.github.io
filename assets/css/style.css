@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 980px;
+    margin: auto;
+    padding: 40px;
+    line-height: 1.6;
+    background: #ffffff;
+    color: #111111;
+}
+
+/* Headings */
+h1, h2, h3 {
+    font-weight: 600;
+}
+
+/* Separators */
+hr {
+    margin: 30px 0;
+}
+
+/* ---- Research layout tweaks ---- */
+
+/* Prevent Minima header/footer duplication */
+.site-header,
+.site-footer {
+    display: none !important;
+}
+
+/* Clean academic spacing */
+.page-content {
+    padding-top: 0 !important;
+}
+
+/* Better research typography */
+h1 {
+    margin-bottom: 0.2rem;
+}
+
+h2 {
+    margin-top: 2rem;
+}
+
+h3 {
+    margin-top: 1.5rem;
+}
+
+/* Links */
+a {
+    color: #0b5ed7;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
