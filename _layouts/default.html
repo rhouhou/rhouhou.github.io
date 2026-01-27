@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>
+    {% if page.title and page.title != "" %}
+      {{ page.title }} · {{ site.title }}
+    {% else %}
+      {{ site.title }}
+    {% endif %}
+  </title>
+  <meta name="description" content="{{ site.description }}" />
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+
+<body>
+  <header class="site-header">
+    <div class="wrap header-row">
+      <a class="brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+
+      <nav class="nav">
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/research/' | relative_url }}">Research</a>
+        <a href="{{ '/publications/' | relative_url }}">Publications</a>
+        <a href="{{ '/software/' | relative_url }}">Software</a>
+        <a href="{{ '/contact/' | relative_url }}">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap content">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <span>© {{ site.title }}</span>
+    </div>
+  </footer>
+</body>
+</html>
