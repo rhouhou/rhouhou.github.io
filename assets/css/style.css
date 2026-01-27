@@ -1,55 +1,83 @@
-body {
-    font-family: Arial, sans-serif;
-    max-width: 980px;
-    margin: auto;
-    padding: 40px;
-    line-height: 1.6;
-    background: #ffffff;
-    color: #111111;
+:root{
+  --bg:#0b0e14;
+  --panel:#0f172a;
+  --text:#e5e7eb;
+  --muted:#9ca3af;
+  --line:#1f2937;
+  --link:#38bdf8;
 }
 
-/* Headings */
-h1, h2, h3 {
-    font-weight: 600;
+*{ box-sizing:border-box; }
+html,body{ margin:0; padding:0; }
+body{
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.6;
 }
 
-/* Separators */
-hr {
-    margin: 30px 0;
+.wrap{
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 0 22px;
 }
 
-/* ---- Research layout tweaks ---- */
-
-/* Prevent Minima header/footer duplication */
-.site-header,
-.site-footer {
-    display: none !important;
+.site-header{
+  border-bottom: 1px solid var(--line);
+  background: rgba(11,14,20,0.9);
+  position: sticky;
+  top: 0;
+  backdrop-filter: blur(8px);
 }
 
-/* Clean academic spacing */
-.page-content {
-    padding-top: 0 !important;
+.header-row{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  padding: 14px 0;
+  gap: 18px;
 }
 
-/* Better research typography */
-h1 {
-    margin-bottom: 0.2rem;
+.brand{
+  color: var(--text);
+  text-decoration:none;
+  font-weight: 650;
 }
 
-h2 {
-    margin-top: 2rem;
+.nav a{
+  color: var(--muted);
+  text-decoration:none;
+  margin-left: 14px;
+  font-weight: 550;
+}
+.nav a:hover{ color: var(--text); }
+
+.content{
+  padding: 34px 0 46px;
 }
 
-h3 {
-    margin-top: 1.5rem;
+h1{ font-size: 2.1rem; margin: 0 0 0.3rem; }
+h2{ margin-top: 2rem; }
+h3{ margin-top: 1.4rem; }
+p{ margin: 0.65rem 0; }
+
+a{ color: var(--link); }
+hr{
+  border:0;
+  border-top:1px solid var(--line);
+  margin: 22px 0;
 }
 
-/* Links */
-a {
-    color: #0b5ed7;
-    text-decoration: none;
+.card{
+  background: rgba(15,23,42,0.6);
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  padding: 16px 18px;
 }
 
-a:hover {
-    text-decoration: underline;
+.site-footer{
+  border-top: 1px solid var(--line);
+  padding: 18px 0;
+  color: var(--muted);
+  font-size: 0.95rem;
 }
