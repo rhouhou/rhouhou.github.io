@@ -5,12 +5,12 @@ title: Research
 
 # Research
 
-## Research Vision
+## Vision
 My long-term goal is to establish a research program in Scientific AI for Multimodal Photonic Sensing, creating foundational methods that enable reliable AI for rare and complex imaging modalities.
 
 
 
-## Research Pillars
+## Pillars
 - Data-efficient learning for rare modalities  
 - Physics-informed multimodal fusion  
 - Trustworthy scientific AI  
