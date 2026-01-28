@@ -5,6 +5,7 @@
   --muted:#9ca3af;
   --line:#1f2937;
   --link:#38bdf8;
+  --accent:#1DA1F2;
 }
 
 *{ box-sizing:border-box; }
@@ -80,4 +81,8 @@ hr{
   padding: 18px 0;
   color: var(--muted);
   font-size: 0.95rem;
+}
+
+.icon-accent{
+  color: var(--accent);
 }
