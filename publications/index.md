@@ -5,7 +5,7 @@ title: Publications
 
 # Publications
 
-## <i class="fa-solid fa-flask"></i> Journal Articles
+## <i class="fa-solid fa-flask icon-journal"></i> Journal Articles
 - **Deep Learning as Phase Retrieval Tool for CARS Spectra**  
   **R. Houhou**, P. Barman, M. Schmitt, T. Meyer, J. Popp, T. Bocklitz  
   *Optics Express*, 28(14), 21002–21024 (2020)  
@@ -45,14 +45,14 @@ title: Publications
   DOI: https://doi.org/10.1016/j.jhydrol.2015.08.010  
 
 
-## <i class="fa-solid fa-users"></i> Conference Papers
+## <i class="fa-solid fa-users icon-conf"></i> Conference Papers
 - **Confidence intervals uncovered: Are we ready for real-world medical imaging AI?**  
   E. Christodoulou, A. Reinke, **R. Houhou**, et al.  
   *Medical Image Computing and Computer Assisted Intervention (MICCAI 2024)*,  
   Lecture Notes in Computer Science, vol. 15010 (2024)  
   DOI: https://doi.org/10.1007/978-3-031-72117-5_12  
 
-## <i class="fa-solid fa-graduation-cap"></i> Theses
+## <i class="fa-solid fa-graduation-cap icon-thesis"></i> Theses
 - **PhD Thesis — Inverse and Forward Modeling Tools for Biophotonic Data**  
   **Dr. Rola Houhou**  
   Friedrich Schiller University Jena, Germany  
@@ -60,7 +60,7 @@ title: Publications
   Repository: Thüringen University Library  
   PDF: https://www.db-thueringen.de/receive/dbt_mods_00055203
 
-## <i class="fa-solid fa-book"></i> Book Chapters
+## <i class="fa-solid fa-book icon-book"></i> Book Chapters
 - **Photonic Data Science for Raman Data Analysis**  
   **R. Houhou**  
   In: *Raman Spectroscopy in Human Health and Biomedicine*, 2024  
@@ -68,7 +68,7 @@ title: Publications
 - **Comprehensive Chemometrics**  
   Elsevier, 2020  
 
-## <i class="fa-solid fa-file-lines"></i> Preprints
+## <i class="fa-solid fa-file-lines icon-preprint"></i> Preprints
 - **Sulfur-fueled chemolithoautotrophs replenish organic carbon inventory in groundwater**  
   Authors  
   *bioRxiv* (2021)  
