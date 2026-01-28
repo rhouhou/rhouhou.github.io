@@ -6,6 +6,11 @@
   --line:#1f2937;
   --link:#38bdf8;
   --accent:#1DA1F2;
+  --main: #1DA1F2;
+  --blue-light: #4FB6F6;
+  --blue-soft: #7CCBFA;
+  --blue-dark: #0D8AD1;
+  --blue-sky: #5FC1F7;
 }
 
 *{ box-sizing:border-box; }
@@ -86,3 +91,11 @@ hr{
 .icon-accent{
   color: var(--accent);
 }
+
+/* Publication icons */
+.icon-journal{ color: var(--main); }
+.icon-conf{ color: var(--blue-light); }
+.icon-book{ color: var(--blue-dark); }
+.icon-preprint{ color: var(--blue-soft); }
+.icon-thesis{ color: var(--main); }
+.icon-teaching{ color: var(--blue-sky); }
