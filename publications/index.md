@@ -5,7 +5,7 @@ title: Publications
 
 # Publications
 
-## <i class="fa-solid fa-flask"></i> Journal Articles
+<i class="fa-solid fa-flask"></i> Journal Articles
 - **Deep Learning as Phase Retrieval Tool for CARS Spectra**  
   **R. Houhou**, P. Barman, M. Schmitt, T. Meyer, J. Popp, T. Bocklitz  
   *Optics Express*, 28(14), 21002–21024 (2020)  
