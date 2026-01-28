@@ -5,8 +5,9 @@
   --muted:#9ca3af;
   --line:#1f2937;
   --link:#38bdf8;
-  --accent:#1DA1F2;
   --main: #1DA1F2;
+  --nav-text: #1DA1F2;
+  --nav-hover: #111111;
   --blue-light: #4FB6F6;
   --blue-soft: #7CCBFA;
   --blue-dark: #0D8AD1;
@@ -50,12 +51,18 @@ body{
 }
 
 .nav a{
-  color: var(--muted);
+  color: var(--nav-text);
   text-decoration:none;
-  margin-left: 14px;
-  font-weight: 550;
+  margin-left: 18px;
+  font-weight: 500;
+  transition: color 0.25s ease;
 }
-.nav a:hover{ color: var(--text); }
+.nav a:hover{ color: var(--nav-hover); }
+
+.nav a.active{
+  color: var(--nav-hover);
+  font-weight: 600;
+}
 
 .content{
   padding: 34px 0 46px;
@@ -85,10 +92,6 @@ hr{
   padding: 18px 0;
   color: var(--muted);
   font-size: 0.95rem;
-}
-
-.icon-accent{
-  color: var(--accent);
 }
 
 /* Publication icons */
