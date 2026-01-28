@@ -23,17 +23,17 @@ title: Publications
 
 - **Review of Fluorescence Lifetime Imaging Microscopy (FLIM) Data Analysis using Machine Learning**  
   M. Adhikari, **R. Houhou**, J. Hniopek, T. Bocklitz  
-  *Journal of Experimental and Theoretical Analyses*, 1(1), 44-63 (2023)
+  *Journal of Experimental and Theoretical Analyses*, 1(1), 44-63 (2023)  
   DOI: [https://doi.org/10.3390/jeta1010004](https://doi.org/10.3390/jeta1010004) 
 
 - **Bolstering Fitness via CO₂ Fixation and Organic Carbon Uptake: Mixotrophs in Modern Groundwater**  
   M. Taubert, W. A. Overholt, B. M. Heinze, G. A. Matanfack, **R. Houhou**, N. Jehmilch, M. von Bergen, P. Rösch, J. Popp, K. Küsel  
-  *The ISME Journal*, 16(4), 1153-1162 (2022)
+  *The ISME Journal*, 16(4), 1153-1162 (2022)  
   DOI: [https://doi.org/10.1038/s41396-021-01163-x](https://doi.org/10.1038/s41396-021-01163-x) 
 
 - **Trends in Artificial Intelligence, Machine Learning, and Chemometrics Applied to Chemical Data**  
   **R. Houhou**, T. Bocklitz  
-  *Analytical Science Advances*, 2(3–4), 128-141 (2021)
+  *Analytical Science Advances*, 2(3–4), 128-141 (2021)  
   DOI: [https://doi.org/10.1002/ansa.202000162](https://doi.org/10.1002/ansa.202000162) 
 
 - **Influence of Carbon Sources on Quantification of Deuterium Incorporation in Heterotrophic Bacteria: a Raman-Stable Isotope Labeling Approach**  
@@ -65,18 +65,18 @@ title: Publications
 ## <i class="fa-solid fa-book icon-book"></i> Book Chapters
 - **Photonic Data Science for Raman Data Analysis**  
   **R. Houhou**, T. Bocklitz  
-  In: *Raman Spectroscopy in Human Health and Biomedicine*, 2024
+  In: *Raman Spectroscopy in Human Health and Biomedicine*, 2024  
   DOI: [https://doi.org/10.1142/9789811264610_0002](https://doi.org/10.1142/9789811264610_0002) 
 
 - **Chemometrics in Raman Spectroscopy**  
   S. Guo, O. Ryabchykov, N. Ali, **R. Houhou**, T. Bocklitz
-  In: *Comprehensive Chemometrics: Chemical and Biochemical Data Analysis*, 2020
+  In: *Comprehensive Chemometrics: Chemical and Biochemical Data Analysis*, 2020  
   DOI: [https://doi.org/10.1016/B978-0-12-409547-2.14600-1](https://doi.org/10.1016/B978-0-12-409547-2.14600-1) 
 
 ## <i class="fa-solid fa-file-lines icon-preprint"></i> Preprints
 - **Sulfur-fueled chemolithoautotrophs replenish organic carbon inventory in groundwater**  
   M. Taubert, B. M. Heinze, W. A. Overholt, G. Azemtsop, **R. Houhou**, N. jehmlich, M. von Bergen, P. Rösch, J. Popp, K. Küsel  
-  *bioRxiv* (2021)
+  *bioRxiv* (2021)  
   DOI: [https://doi.org/10.1101/2021.01.26.428071](https://doi.org/10.1101/2021.01.26.428071) 
 
 # Talks & Teaching
@@ -86,4 +86,4 @@ Conceptual lecture introducing AI agents, multi-agent architectures, coordinatio
 **Format**: lecture slides (PDF)  
 **Year**: 2025  
 **Audience**: Graduate-level Students  
-[Slides (PDF)](Slides (PDF))
+  [Slides (PDF)](Slides (PDF))
