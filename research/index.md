@@ -13,8 +13,8 @@ My long-term goal is to establish a research program in Scientific AI for Multim
 ## Research Directions
 ### Data-efficient learning for rare modalities  
 ### Physics-informed multimodal fusion
-<figure>
-  <img src="/assets/img/Pillar2.png" width="750">
+<figure style="text-align:center;">
+  <img src="/assets/img/Pillar2.png" width="450">
   <figcaption style="text-align:center; font-size:0.9em; color:#666;">
     Structured multimodal fusion integrating physical constraints and inverse modeling across heterogeneous sensing modalities.
   </figcaption>
