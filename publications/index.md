@@ -85,5 +85,5 @@ title: Publications
 Conceptual lecture introducing AI agents, multi-agent architectures, coordination strategies, role specialization, and distributed intelligence in complex systems.   
 **Format**: lecture slides (PDF)  
 **Year**: 2025  
-**Audience**: Graduate-level Students
+**Audience**: Graduate-level Students  
 [Slides (PDF)](Slides (PDF))
