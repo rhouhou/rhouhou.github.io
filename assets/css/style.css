@@ -124,7 +124,7 @@ hr{
 
 .figure-img {
     width: 100%;
-    max-width: 420px;
+    max-width: 100px;
     display: block;
     margin: 0 auto;
 }
