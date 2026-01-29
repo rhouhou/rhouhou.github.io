@@ -16,33 +16,27 @@ My long-term goal is to establish a research program in Scientific AI for Multim
   <!-- Pillar 1 -->
   <div class="pillar-card">
     <div class="pillar-title">Data-Efficient Learning<br>for Rare Modalities</div>
-    <img src="/assets/img/Pillar1.png" class="pillar-image"> 
-    <div class="pillar-content">
-      <p>Learning from limited, sparse, and rare multimodal datasets</p>
-      <p>Self-supervised and generative modeling frameworks</p>
-      <p>Generalization under data scarcity and distribution shift</p>
+    <img src="/assets/img/Pillar1.png" style="width:100%; max-width:420px; display:block; margin:auto;"> 
+    <div class="figure-caption">
+      Learning robust representations from limited and sparse multimodal data.
     </div>
   </div>
 
   <!-- Pillar 2 -->
   <div class="pillar-card">
     <div class="pillar-title">Physics-Informed<br>Multimodal Fusion</div>
-    <img src="/assets/img/Pillar2.png" class="pillar-image">
-    <div class="pillar-content">
-      <p>Structured fusion of spatial, spectral, and temporal data</p>
-      <p>Integration of physical constraints and measurement models</p>
-      <p>Inverse problems: reconstruction, denoising, unmixing</p>
+    <img src="/assets/img/Pillar2.png" style="width:100%; max-width:420px; display:block; margin:auto;">
+    <div class="figure-caption">
+      Structured fusion of multimodal data guided by physical laws and measurement models.
     </div>
   </div>
 
   <!-- Pillar 3 -->
   <div class="pillar-card">
     <div class="pillar-title">Trustworthy<br>Scientific AI</div>
-    <img src="/assets/img/pillar3.png" class="pillar-image">
-    <div class="pillar-content">
-      <p>Uncertainty quantification and reliability</p>
-      <p>Interpretability and scientific consistency</p>
-      <p>Robust, reproducible, and verifiable AI systems</p>
+    <img src="/assets/img/Pillar3.png" style="width:100%; max-width:420px; display:block; margin:auto;">
+    <div class="figure-caption">
+      Reliable, interpretable, and verifiable AI for scientific and high-stakes applications.
     </div>
   </div>
 
