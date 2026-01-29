@@ -14,28 +14,34 @@ My long-term goal is to establish a research program in Scientific AI for Multim
 <div class="pillars">
 
   <!-- Pillar 1 -->
-  <div class="pillar-card">
-    <div class="pillar-title">Data-Efficient Learning<br>for Rare Modalities</div>
-    <img src="/assets/img/Pillar1.png" class="figure-img"> 
-    <div class="figure-caption">
+  <div class="pillar-row">
+    <div class="pillar-title-row">Data-Efficient Learning for Rare Modalities</div>
+    <div class="pillar-figure-row">
+      <img src="/assets/img/Pillar1.png">
+    </div>
+    <div class="pillar-gap">
       Learning robust representations from limited and sparse multimodal data.
     </div>
   </div>
 
   <!-- Pillar 2 -->
-  <div class="pillar-card">
-    <div class="pillar-title">Physics-Informed<br>Multimodal Fusion</div>
-    <img src="/assets/img/Pillar2.png" class="figure-img">
-    <div class="figure-caption">
+  <div class="pillar-row">
+    <div class="pillar-title-row">Physics-Informed Multimodal Fusion</div>
+    <div class="pillar-figure-row">
+      <img src="/assets/img/Pillar2.png">
+    </div>
+    <div class="pillar-gap">
       Structured fusion of multimodal data guided by physical laws and measurement models.
     </div>
   </div>
 
   <!-- Pillar 3 -->
-  <div class="pillar-card">
-    <div class="pillar-title">Trustworthy<br>Scientific AI</div>
-    <img src="/assets/img/Pillar3.png" class="figure-img">
-    <div class="figure-caption">
+  <div class="pillar-row">
+    <div class="pillar-title-row">Trustworthy Scientific AI</div>
+    <div class="pillar-figure-row">
+      <img src="/assets/img/Pillar3.png">
+    </div>
+    <div class="pillar-gap">
       Reliable, interpretable, and verifiable AI for scientific and high-stakes applications.
     </div>
   </div>
