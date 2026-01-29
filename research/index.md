@@ -16,7 +16,7 @@ My long-term goal is to establish a research program in Scientific AI for Multim
   <!-- Pillar 1 -->
   <div class="pillar-card">
     <div class="pillar-title">Data-Efficient Learning<br>for Rare Modalities</div>
-    <img src="/assets/images/Pillar1.png" class="pillar-image"> 
+    <img src="/assets/img/Pillar1.png" class="pillar-image"> 
     <div class="pillar-content">
       <p>Learning from limited, sparse, and rare multimodal datasets</p>
       <p>Self-supervised and generative modeling frameworks</p>
@@ -27,7 +27,7 @@ My long-term goal is to establish a research program in Scientific AI for Multim
   <!-- Pillar 2 -->
   <div class="pillar-card">
     <div class="pillar-title">Physics-Informed<br>Multimodal Fusion</div>
-    <img src="/assets/images/Pillar2.png" class="pillar-image">
+    <img src="/assets/img/Pillar2.png" class="pillar-image">
     <div class="pillar-content">
       <p>Structured fusion of spatial, spectral, and temporal data</p>
       <p>Integration of physical constraints and measurement models</p>
@@ -38,7 +38,7 @@ My long-term goal is to establish a research program in Scientific AI for Multim
   <!-- Pillar 3 -->
   <div class="pillar-card">
     <div class="pillar-title">Trustworthy<br>Scientific AI</div>
-    <img src="/assets/images/pillar3.png" class="pillar-image">
+    <img src="/assets/img/pillar3.png" class="pillar-image">
     <div class="pillar-content">
       <p>Uncertainty quantification and reliability</p>
       <p>Interpretability and scientific consistency</p>
