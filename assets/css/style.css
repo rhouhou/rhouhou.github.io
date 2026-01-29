@@ -118,15 +118,12 @@ hr{
 }
 
 .pillar-gap {
-    margin: 20px 0 10px 0;
+    margin: 10px 0 10px 0;
     padding: 14px 20px;
     text-align: center;
     font-style: italic;
-    font-size: 0.9em;
+    font-size: 0.7em;
     color: #b0cde8;              /* soft blue-gray */
-    background: #000000;        /* black band */
-    border-top: 1px solid rgba(29,161,242,0.25);
-    border-bottom: 1px solid rgba(29,161,242,0.25);
 }
 
 .figure-img {
