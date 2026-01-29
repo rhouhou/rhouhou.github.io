@@ -93,33 +93,40 @@ hr{
   color: var(--muted);
   font-size: 0.95rem;
 }
-
-.pillars {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 30px;
-    margin-top: 40px;
+.pillar-row {
+    margin: 70px 0;
 }
 
-.pillar-card {
-    border: 1px solid #e0e0e0;
-    border-radius: 14px;
-    padding: 25px;
-    background: #ffffff;
-    transition: all 0.2s ease;
-}
-
-.pillar-card:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 8px 20px rgba(0,0,0,0.06);
-}
-
-.pillar-title {
-    font-size: 1.25em;
-    font-weight: 600;
-    color: #1DA1F2;  /* your theme color */
-    margin-bottom: 15px;
+.pillar-title-row {
     text-align: center;
+    font-size: 1.4em;
+    font-weight: 600;
+    color: #1DA1F2;   /* theme color */
+    margin-bottom: 18px;
+}
+
+.pillar-figure-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pillar-figure-row img {
+    max-width: 720px;
+    width: 100%;
+    height: auto;
+}
+
+.pillar-gap {
+    margin: 20px 0 10px 0;
+    padding: 14px 20px;
+    text-align: center;
+    font-style: italic;
+    font-size: 0.9em;
+    color: #b0cde8;              /* soft blue-gray */
+    background: #000000;        /* black band */
+    border-top: 1px solid rgba(29,161,242,0.25);
+    border-bottom: 1px solid rgba(29,161,242,0.25);
 }
 
 .figure-img {
@@ -128,16 +135,6 @@ hr{
     display: block;
     margin: 0 auto;
 }
-
-.figure-caption {
-    font-style: italic;
-    font-size: 0.6em;
-    color: rgba(176, 205, 232, 0.75);
-    text-align: center;
-    margin-top: 6px;
-    margin-bottom: 28px;
-}
-
 
 /* Publication icons */
 .icon-journal{ color: var(--main); }
