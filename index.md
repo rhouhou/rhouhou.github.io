@@ -14,7 +14,7 @@ Physics-informed AI · Multimodal Data Fusion · Rare Imaging Modalities · Trus
 <section class="card">
   <div class="hero">
     <div class="hero-photo">
-      <img src="assets/profile.jpg" alt="Portrait of Dr. Rola Houhou">
+      <img src="assets/img/IMG_RH.jpg" alt="Portrait of Dr. Rola Houhou">
     </div>
     <div>
       <h1>Dr. Rola Houhou</h1>
