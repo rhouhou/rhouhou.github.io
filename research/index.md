@@ -15,7 +15,7 @@ My long-term goal is to establish a research program in Scientific AI for Multim
 
   <!-- Pillar 1 -->
   <div class="pillar-row">
-    <div class="pillar-title-row">Data-Efficient Learning for Rare Modalities</div>
+    <div class="pillar-title-row">Data-Efficient Inverse Modeling for Ill-Posed Physical systems</div>
     <div class="pillar-figure-row">
       <img src="/assets/img/Pillar1.png">
     </div>
@@ -26,7 +26,7 @@ My long-term goal is to establish a research program in Scientific AI for Multim
 
   <!-- Pillar 2 -->
   <div class="pillar-row">
-    <div class="pillar-title-row">Physics-Informed Multimodal Fusion</div>
+    <div class="pillar-title-row">Physics-Constrained Multimodal Inverse Problems</div>
     <div class="pillar-figure-row">
       <img src="/assets/img/Pillar2.png">
     </div>
@@ -37,7 +37,7 @@ My long-term goal is to establish a research program in Scientific AI for Multim
 
   <!-- Pillar 3 -->
   <div class="pillar-row">
-    <div class="pillar-title-row">Trustworthy Scientific AI</div>
+    <div class="pillar-title-row">Stability, Uncertainty, and Reliability of Inverse Models</div>
     <div class="pillar-figure-row">
       <img src="/assets/img/Pillar3.png">
     </div>
