@@ -6,7 +6,7 @@ title: ""
 <section class="card">
   <div class="hero">
     <div class="hero-photo">
-      <img src="assets/img/IMG_RH.JPG" alt="Portrait of Dr. Rola Houhou">
+      <img src="{{ site.baseurl }}/assets/img/IMG_RH.JPG" alt="Portrait of Dr. Rola Houhou">
     </div>
     <div>
       <h1>Dr. Rola Houhou</h1>
@@ -18,7 +18,7 @@ title: ""
         <a href="{{ site.baseurl }}/research">Research</a>
         <a href="{{ site.baseurl }}/publications">Publications</a>
         <a href="{{ site.baseurl }}/contact">Contact</a>
-        <a href="assets/docs/CV_RolaHouhou.pdf">CV (PDF)</a>
+        <a href="{{ site.baseurl }}/assets/docs/CV_RolaHouhou.pdf">CV (PDF)</a>
       </div>
     </div>
   </div>
