@@ -86,4 +86,4 @@ Conceptual lecture introducing AI agents, multi-agent architectures, coordinatio
 **Format**: lecture slides (PDF)  
 **Year**: 2025  
 **Audience**: Graduate-level Students  
-  [Slides (PDF)](Slides (PDF))
+  [Slides (PDF)]({{ site.baseurl }}/assets/slides/from-single-models-to-ai-teams.pdf)
