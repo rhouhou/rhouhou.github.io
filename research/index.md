@@ -5,12 +5,10 @@ title: Research
 
 # Research
 
-## Vision
-My long-term goal is to establish a research program in Scientific AI for Multimodal Photonic Sensing, creating foundational methods that enable reliable AI for rare and complex imaging modalities.
+## Research Vision
+A unified research program for data-efficient, physics-constrained, and stable inverse modeling of complex physical systems.
 
-
-
-## Research Directions
+## Research Pillars
 <div class="pillars">
 
   <!-- Pillar 1 -->
@@ -20,7 +18,7 @@ My long-term goal is to establish a research program in Scientific AI for Multim
       <img src="/assets/img/Pillar1.png">
     </div>
     <div class="pillar-gap">
-      Learning robust representations from limited and sparse multimodal data.
+      Learning stable inverse mappings from sparse, limited, and simulated data through physics-informed inductive biases.
     </div>
   </div>
 
@@ -31,7 +29,7 @@ My long-term goal is to establish a research program in Scientific AI for Multim
       <img src="/assets/img/Pillar2.png">
     </div>
     <div class="pillar-gap">
-      Structured fusion of multimodal data guided by physical laws and measurement models.
+      Reconstructing physical systems via joint inverse modeling constrained by PDEs, forward operators, and multi-physics structure.
     </div>
   </div>
 
@@ -42,21 +40,33 @@ My long-term goal is to establish a research program in Scientific AI for Multim
       <img src="/assets/img/Pillar3.png">
     </div>
     <div class="pillar-gap">
-      Reliable, interpretable, and verifiable AI for scientific and high-stakes applications.
+      Establishing stable, identifiable, and physically consistent inverse models through uncertainty quantification and theoretical guarantees.
     </div>
   </div>
 
 </div> 
 
 ## Focus Problems
-- Multimodal optical tissue characterization  
-- Hyperspectral reconstruction and diagnosis  
-- Cross-device generalization in photonic imaging  
+My research is driven by fundamental scientific challenges arising in inverse problems, physical modeling, and scientific inference:
+- Ill-posed inverse problems in imaging and sensing, where reconstruction is unstable, underdetermined, or non-identifiable due to sparse, noisy, or incomplete measurements.  
+- Reconstruction under data scarcity, including rare modalities, limited acquisition regimes, and low-sample scientific settings.  
+- Multimodal inverse problems, where heterogeneous observations must be fused through physically consistent models rather than data-level integration.
+- PDE-constrained inverse problems, involving coupled physical processes and multi-physics systems.
+- Identifiability and stability of inverse models, including sensitivity to perturbations, model mismatch, and measurement noise.
+- Reliability of scientific reconstructions, focusing on physical plausibility, reproducibility, and consistency with governing laws.
+- Context-conditioned inference, where biological, instrumental, and environmental variables influence the forward model and inverse solution.
+These problems arise naturally in biophotonics, imaging physics, spectroscopy, and scientific sensing systems, but are formulated at a general mathematical and physical level.
 
 ## Methods
-- self-supervised learning  
-- generative modeling  
-- Bayesian inference  
-- uncertainty quantification  
-- physics-guided neural networks 
+My methodological approach integrates theory, physics, and learning within a unified inverse-problem framework:
+- Inverse problem theory: ill-posedness analysis, regularization theory, identifiability, and stability theory.
+- PDE-constrained modeling: forward modeling, coupled PDE systems, and physics-based constraints.
+- Simulation-driven learning: synthetic data generation, physics-based simulators, and model-informed supervision.
+- Inverse operator learning: learning structured inverse mappings under physical constraints.
+- Physics-informed machine learning: embedding physical laws, priors, and inductive biases into learning models.
+- Compressed sensing and sparse reconstruction: structure-exploiting recovery from limited measurements.
+- Uncertainty quantification: Bayesian inference, probabilistic modeling, and uncertainty propagation.
+- Model-based multimodal fusion: joint reconstruction through shared latent physical representations.
+- Stability diagnostics and robustness analysis: perturbation analysis, sensitivity studies, and reliability evaluation.
+The focus is not on black-box prediction, but on physically grounded, interpretable, and reliable inverse modeling for scientific systems. 
 
