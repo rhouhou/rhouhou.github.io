@@ -13,9 +13,9 @@ A unified research program for data-efficient, physics-constrained, and stable i
 
   <!-- Pillar 1 -->
   <div class="pillar-row">
-    <div class="pillar-title-row">Data-Efficient Inverse Modeling for Ill-Posed Physical systems</div>
+    <div class="pillar-title-row">Data-Efficient Inverse Modeling for Ill-Posed Physical Systems</div>
     <div class="pillar-figure-row">
-      <img src="/assets/img/Pillar1.png">
+      <img src="{{ site.baseurl }}/assets/img/Pillar1.png" alt="Pillar 1 figure">
     </div>
     <div class="pillar-gap">
       Learning stable inverse mappings from sparse, limited, and simulated data through physics-informed inductive biases.
@@ -26,7 +26,7 @@ A unified research program for data-efficient, physics-constrained, and stable i
   <div class="pillar-row">
     <div class="pillar-title-row">Physics-Constrained Multimodal Inverse Problems</div>
     <div class="pillar-figure-row">
-      <img src="/assets/img/Pillar2.png">
+      <img src="{{ site.baseurl }}/assets/img/Pillar2.png" alt="Pillar 2 figure">
     </div>
     <div class="pillar-gap">
       Reconstructing physical systems via joint inverse modeling constrained by PDEs, forward operators, and multi-physics structure.
@@ -37,7 +37,7 @@ A unified research program for data-efficient, physics-constrained, and stable i
   <div class="pillar-row">
     <div class="pillar-title-row">Stability, Uncertainty, and Reliability of Inverse Models</div>
     <div class="pillar-figure-row">
-      <img src="/assets/img/Pillar3.png">
+      <img src="{{ site.baseurl }}/assets/img/Pillar3.png" alt="Pillar 3 figure">
     </div>
     <div class="pillar-gap">
       Establishing stable, identifiable, and physically consistent inverse models through uncertainty quantification and theoretical guarantees.
@@ -55,6 +55,7 @@ My research is driven by fundamental scientific challenges arising in inverse pr
 - Identifiability and stability of inverse models, including sensitivity to perturbations, model mismatch, and measurement noise.
 - Reliability of scientific reconstructions, focusing on physical plausibility, reproducibility, and consistency with governing laws.
 - Context-conditioned inference, where biological, instrumental, and environmental variables influence the forward model and inverse solution.
+
 These problems arise naturally in biophotonics, imaging physics, spectroscopy, and scientific sensing systems, but are formulated at a general mathematical and physical level.
 
 ## Methods
@@ -68,5 +69,6 @@ My methodological approach integrates theory, physics, and learning within a uni
 - Uncertainty quantification: Bayesian inference, probabilistic modeling, and uncertainty propagation.
 - Model-based multimodal fusion: joint reconstruction through shared latent physical representations.
 - Stability diagnostics and robustness analysis: perturbation analysis, sensitivity studies, and reliability evaluation.
+
 The focus is not on black-box prediction, but on physically grounded, interpretable, and reliable inverse modeling for scientific systems. 
 
