@@ -11,4 +11,4 @@ Physics-informed AI · Multimodal Data Fusion · Rare Imaging Modalities · Trus
 ---
 
 ## About
-I am a researcher working at the intersection of photonics, data science, and artificial intelligence. My work focuses on physics-informed AI for multimodal photonic imaging and rare sensing modalities, with applications in biomedical diagnostics and scientific discovery.
+I am an independent researcher working at the intersection of inverse problems, physics-based modeling, and data-efficient scientific inference. My research focuses on developing physically grounded inverse modeling frameworks for complex systems under data scarcity, uncertainty, and ill-posedness, with applications in biophotonics, imaging, and multimodal scientific sensing.
