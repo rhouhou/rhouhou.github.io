@@ -13,4 +13,4 @@ LinkedIn: [https://www.linkedin.com/in/dr-rola-houhou-0a961b31](https://www.link
 
 
 ## Collaboration
-Interested in collaborations in biomedical imaging, photonic sensing, multimodal data fusion, and scientific AI research.
+Interested in collaborations in biomedical imaging, photonic sensing, physics-constrained multimodal inverse problems, and reliable scientific AI.
