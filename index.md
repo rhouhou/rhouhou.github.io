@@ -25,10 +25,10 @@ title: ""
   <hr>
   <h3>Education</h3>
   <ul class="compact-list">
-    <li><strong>PhD</strong> <span class="where">— Photonic Data Science – Friedrich-Schiller University, Germany</span></li>
-    <li><strong>MSc</strong> <span class="where">— Analysis & Probability for PDEs – Saint-Joseph University, Lebanon</span></li>
-    <li><strong>MSc</strong> <span class="where">— Statistics for Finance & Insurance – Le Cnam, France/Lebanon</span></li>
-    <li><strong>BSc</strong> <span class="where">— Pure Mathematics – Lebanese University, Lebanon</span></li>
+    <li><strong>PhD</strong> <span class="where">- Photonic Data Science - Friedrich-Schiller University, Germany</span></li>
+    <li><strong>MSc</strong> <span class="where">- Analysis & Probability for PDEs - Saint-Joseph University, Lebanon</span></li>
+    <li><strong>MSc</strong> <span class="where">- Statistics for Finance & Insurance - Le Cnam, France/Lebanon</span></li>
+    <li><strong>BSc</strong> <span class="where">- Pure Mathematics - Lebanese University, Lebanon</span></li>
   </ul>
   <p style="margin-top: 0.9rem; color: var(--muted); font-style: italic;">
     Currently open to collaborations and institutional affiliations.
