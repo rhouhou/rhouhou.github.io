@@ -41,16 +41,41 @@ title: ""
 
   <hr>
 
-  <h3>Selected Project Ecosystem</h3>
-  <ul class="compact-list">
-    <li><strong>CARSBench</strong> <span class="where">- variability-aware simulation and benchmarking for CARS/BCARS reconstruction under domain shift</span></li>
-    <li><strong>prCARS</strong> <span class="where">- phase retrieval, non-resonant-background correction, and Raman-like signal reconstruction from CARS/BCARS spectra</span></li>
-    <li><strong>CARSGuard</strong> <span class="where">- validation framework for physical realism, Raman consistency, artifact risk, and confidence in CARS/BCARS spectra</span></li>
-  </ul>
+<h3>Selected Project Portfolio</h3>
 
-  <p style="margin-top: 0.9rem; color: var(--muted);">
-    Together, these projects form a small research ecosystem for simulation, retrieval, and validation of coherent Raman spectroscopy workflows.
-  </p>
+<h4>CARS/BCARS Spectroscopy Ecosystem</h4>
+
+<ul class="compact-list">
+  <li><strong>CARSBench</strong> <span class="where">- variability-aware simulation and benchmarking for CARS/BCARS reconstruction under domain shift</span></li>
+  <li><strong>prCARS</strong> <span class="where">- phase retrieval, non-resonant-background correction, and Raman-like signal reconstruction from CARS/BCARS spectra</span></li>
+  <li><strong>CARSGuard</strong> <span class="where">- validation framework for physical realism, Raman consistency, artifact risk, and confidence in CARS/BCARS spectra</span></li>
+</ul>
+
+<p style="margin-top: 0.9rem; color: var(--muted);">
+  Together, these projects form a small research ecosystem for simulation, retrieval, and validation of coherent Raman spectroscopy workflows.
+</p>
+
+<p>
+  <a href="https://github.com/rhouhou/CARSBench">CARSBench</a> ·
+  <a href="https://github.com/rhouhou/prCARS">prCARS</a> ·
+  <a href="https://github.com/rhouhou/CARSGuard">CARSGuard</a>
+</p>
+
+<h4>Medical Imaging and Data-Scarcity Projects</h4>
+
+<ul class="compact-list">
+  <li><strong>MedicalImageClassifier</strong> <span class="where">- explainable chest X-ray pneumonia classification with PyTorch, transfer learning, Grad-CAM, ONNX export, Gradio, CI, and responsible model documentation</span></li>
+  <li><strong>vae-reconstruction-scarcity</strong> <span class="where">- reproducible experiments on VAE and autoencoder reconstruction strategies for X-ray classification under limited training data</span></li>
+</ul>
+
+<p style="margin-top: 0.9rem; color: var(--muted);">
+  These projects show my broader medical imaging AI work, including classification, explainability, reconstruction quality, sample scarcity, and reproducible evaluation workflows.
+</p>
+
+<p>
+  <a href="https://github.com/rhouhou/MedicalImageClassifier">MedicalImageClassifier</a> ·
+  <a href="https://github.com/rhouhou/vae-reconstruction-scarcity">vae-reconstruction-scarcity</a>
+</p>
 
   <hr>
 
