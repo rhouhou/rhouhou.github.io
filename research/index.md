@@ -3,72 +3,161 @@ layout: default
 title: Research
 ---
 
-# Research
+<section class="card">
+  <h1>Research</h1>
 
-## Research Vision
-A unified research program for data-efficient, physics-constrained, and stable inverse modeling of complex physical systems.
+  <p>
+    My research focuses on AI-driven computational modeling for biophotonics, spectroscopy, medical imaging, and scientific measurement systems under uncertainty.
+  </p>
 
-## Research Pillars
-<div class="pillars">
+  <p>
+    I work on methods that combine physics-informed modeling, inverse problems, simulation, validation, and data-efficient machine learning for scientific domains where measurements are noisy, limited, multimodal, or difficult to interpret.
+  </p>
 
-  <!-- Pillar 1 -->
-  <div class="pillar-row">
-    <div class="pillar-title-row">Data-Efficient Inverse Modeling for Ill-Posed Physical Systems</div>
-    <div class="pillar-figure-row">
-      <img src="{{ site.baseurl }}/assets/img/Pillar1.png" alt="Pillar 1 figure">
-    </div>
-    <div class="pillar-gap">
-      Learning stable inverse mappings from sparse, limited, and simulated data through physics-informed inductive biases.
-    </div>
-  </div>
+  <hr>
 
-  <!-- Pillar 2 -->
-  <div class="pillar-row">
-    <div class="pillar-title-row">Physics-Constrained Multimodal Inverse Problems</div>
-    <div class="pillar-figure-row">
-      <img src="{{ site.baseurl }}/assets/img/Pillar2.png" alt="Pillar 2 figure">
-    </div>
-    <div class="pillar-gap">
-      Reconstructing physical systems via joint inverse modeling constrained by PDEs, forward operators, and multi-physics structure.
-    </div>
-  </div>
+  <h3>Research Vision</h3>
 
-  <!-- Pillar 3 -->
-  <div class="pillar-row">
-    <div class="pillar-title-row">Stability, Uncertainty, and Reliability of Inverse Models</div>
-    <div class="pillar-figure-row">
-      <img src="{{ site.baseurl }}/assets/img/Pillar3.png" alt="Pillar 3 figure">
-    </div>
-    <div class="pillar-gap">
-      Establishing stable, identifiable, and physically consistent inverse models through uncertainty quantification and theoretical guarantees.
-    </div>
-  </div>
+  <p>
+    Modern scientific measurement systems often produce data that are incomplete, noisy, indirect, or affected by instrument and sample variability.
+  </p>
 
-</div> 
+  <p>
+    My goal is to develop computational methods that are physically meaningful, interpretable, uncertainty-aware, robust under domain shift, and suitable for real scientific workflows.
+  </p>
 
-## Focus Problems
-My research is driven by fundamental scientific challenges arising in inverse problems, physical modeling, and scientific inference:
-- Ill-posed inverse problems in imaging and sensing, where reconstruction is unstable, underdetermined, or non-identifiable due to sparse, noisy, or incomplete measurements.  
-- Reconstruction under data scarcity, including rare modalities, limited acquisition regimes, and low-sample scientific settings.  
-- Multimodal inverse problems, where heterogeneous observations must be fused through physically consistent models rather than data-level integration.
-- PDE-constrained inverse problems, involving coupled physical processes and multi-physics systems.
-- Identifiability and stability of inverse models, including sensitivity to perturbations, model mismatch, and measurement noise.
-- Reliability of scientific reconstructions, focusing on physical plausibility, reproducibility, and consistency with governing laws.
-- Context-conditioned inference, where biological, instrumental, and environmental variables influence the forward model and inverse solution.
+  <p>
+    Rather than treating scientific AI as black-box prediction, I focus on models and workflows that respect measurement physics, prior knowledge, and validation requirements.
+  </p>
 
-These problems arise naturally in biophotonics, imaging physics, spectroscopy, and scientific sensing systems, but are formulated at a general mathematical and physical level.
+  <hr>
 
-## Methods
-My methodological approach integrates theory, physics, and learning within a unified inverse-problem framework:
-- Inverse problem theory: ill-posedness analysis, regularization theory, identifiability, and stability theory.
-- PDE-constrained modeling: forward modeling, coupled PDE systems, and physics-based constraints.
-- Simulation-driven learning: synthetic data generation, physics-based simulators, and model-informed supervision.
-- Inverse operator learning: learning structured inverse mappings under physical constraints.
-- Physics-informed machine learning: embedding physical laws, priors, and inductive biases into learning models.
-- Compressed sensing and sparse reconstruction: structure-exploiting recovery from limited measurements.
-- Uncertainty quantification: Bayesian inference, probabilistic modeling, and uncertainty propagation.
-- Model-based multimodal fusion: joint reconstruction through shared latent physical representations.
-- Stability diagnostics and robustness analysis: perturbation analysis, sensitivity studies, and reliability evaluation.
+  <h3>Research Areas</h3>
 
-The focus is not on black-box prediction, but on physically grounded, interpretable, and reliable inverse modeling for scientific systems. 
+  <h4>AI for Biophotonics and Spectroscopy</h4>
 
+  <p>
+    I am interested in AI methods for optical and spectroscopic measurement systems, especially Raman, CARS, BCARS, and related biophotonic modalities.
+  </p>
+
+  <ul class="compact-list">
+    <li><strong>Simulation</strong> <span class="where">- realistic spectra under instrument, noise, calibration, and biochemical variability</span></li>
+    <li><strong>Retrieval</strong> <span class="where">- phase retrieval, non-resonant-background correction, and Raman-like signal recovery</span></li>
+    <li><strong>Validation</strong> <span class="where">- artifact detection, physical plausibility checks, and Raman consistency scoring</span></li>
+    <li><strong>Benchmarking</strong> <span class="where">- domain-shift-aware evaluation for scientific AI workflows</span></li>
+  </ul>
+
+  <h4>Scientific Machine Learning Under Data Scarcity</h4>
+
+  <p>
+    Many scientific and medical domains have limited labeled data, expensive measurements, heterogeneous acquisition conditions, or strong domain shift.
+  </p>
+
+  <ul class="compact-list">
+    <li><strong>Data-efficient learning</strong> <span class="where">- building useful models when labeled data are limited</span></li>
+    <li><strong>Simulation-driven learning</strong> <span class="where">- using controlled synthetic data to test robustness and generalization</span></li>
+    <li><strong>Uncertainty-aware evaluation</strong> <span class="where">- measuring reliability beyond accuracy alone</span></li>
+    <li><strong>Reproducible benchmarks</strong> <span class="where">- designing transparent evaluation workflows for scientific AI</span></li>
+  </ul>
+
+  <h4>Medical Imaging and Multimodal Data</h4>
+
+  <p>
+    I also work on medical imaging and biomedical AI workflows involving classification, reconstruction quality, and model evaluation.
+  </p>
+
+  <ul class="compact-list">
+    <li><strong>Medical image classification</strong> <span class="where">- model evaluation under limited data and uncertainty</span></li>
+    <li><strong>Reconstruction quality</strong> <span class="where">- understanding how artifacts and reconstruction errors affect downstream analysis</span></li>
+    <li><strong>Multimodal imaging</strong> <span class="where">- connecting imaging, spectroscopy, and structured scientific information</span></li>
+    <li><strong>Trustworthy AI</strong> <span class="where">- calibration, uncertainty, validation, and responsible interpretation</span></li>
+  </ul>
+
+  <h4>Inverse Problems and Reconstruction</h4>
+
+  <p>
+    My mathematical background is in inverse problems, PDE-constrained modeling, probability, statistics, and scientific computation.
+  </p>
+
+  <ul class="compact-list">
+    <li><strong>Ill-posed inverse problems</strong> <span class="where">- stability, regularization, and identifiability</span></li>
+    <li><strong>Physics-informed reconstruction</strong> <span class="where">- using measurement models and constraints to guide inference</span></li>
+    <li><strong>Model mismatch</strong> <span class="where">- understanding uncertainty when assumptions are imperfect</span></li>
+    <li><strong>Inverse operator learning</strong> <span class="where">- combining mathematical structure with machine learning</span></li>
+  </ul>
+
+  <hr>
+
+  <h3>Current Project Ecosystem</h3>
+
+  <h4>CARSBench</h4>
+
+  <p>
+    CARSBench is a variability-aware simulation and benchmark framework for cross-domain generalization in CARS/BCARS reconstruction.
+  </p>
+
+  <p>
+    It is designed to generate spectra under controlled domain shifts and evaluate how retrieval or learning workflows generalize across acquisition and biochemical variability.
+  </p>
+
+  <p>
+    <a href="https://github.com/rhouhou/CARSBench">GitHub repository</a>
+  </p>
+
+  <h4>prCARS</h4>
+
+  <p>
+    prCARS is a Python toolkit for phase retrieval, non-resonant-background correction, preprocessing, and Raman-like signal reconstruction from CARS/BCARS spectra.
+  </p>
+
+  <p>
+    It acts as the retrieval layer between simulated or measured coherent Raman spectra and Raman-like downstream analysis.
+  </p>
+
+  <p>
+    <a href="https://github.com/rhouhou/prCARS">GitHub repository</a>
+  </p>
+
+  <h4>CARSGuard</h4>
+
+  <p>
+    CARSGuard is a validation and quality-control framework for assessing physical realism, Raman consistency, artifact risk, and confidence in CARS/BCARS spectra.
+  </p>
+
+  <p>
+    It is designed to flag suspicious spectra, support validation reports, and make spectroscopy workflows more interpretable.
+  </p>
+
+  <p>
+    <a href="https://github.com/rhouhou/CARSGuard">GitHub repository</a>
+  </p>
+
+  <p style="margin-top: 1rem; color: var(--muted);">
+    Together, these projects form a small research ecosystem for simulation, retrieval, and validation of coherent Raman spectroscopy workflows.
+  </p>
+
+  <hr>
+
+  <h3>Methods</h3>
+
+  <ul class="compact-list">
+    <li><strong>Physics-informed machine learning</strong> <span class="where">- combining data-driven methods with scientific constraints</span></li>
+    <li><strong>Inverse problem theory</strong> <span class="where">- modeling indirect measurements and unstable reconstructions</span></li>
+    <li><strong>Spectral signal processing</strong> <span class="where">- preprocessing, retrieval, background correction, and feature extraction</span></li>
+    <li><strong>Simulation and synthetic data</strong> <span class="where">- generating controlled benchmark data for scientific AI</span></li>
+    <li><strong>Validation metrics</strong> <span class="where">- evaluating plausibility, consistency, artifacts, and confidence</span></li>
+    <li><strong>Reproducible scientific Python</strong> <span class="where">- building tested and documented research software</span></li>
+  </ul>
+
+  <hr>
+
+  <h3>Long-Term Direction</h3>
+
+  <p>
+    My long-term research direction is to develop reliable AI workflows for scientific measurement systems, especially in biophotonics, spectroscopy, and medical imaging.
+  </p>
+
+  <p>
+    I am especially interested in research and engineering roles where mathematical modeling, scientific AI, biomedical measurement systems, and trustworthy validation meet.
+  </p>
+</section>
